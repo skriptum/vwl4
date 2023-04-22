@@ -1,0 +1,102 @@
+# Lesenotizen
+
+
+
+## 2a) Digitale Macht
+
+*Katarina Barley*
+
+- Verschwimmung online-offline
+- Alle industriellen Revolutionen - wie umgehen?
+=> staatliche Aufabe = Gestaltung + Folgenschätzung
+
+### Zustand
+
+- starke Dependenz auf Digitalplattformen
+	- GDP-Benefit = 17500$ Suchaschinen
+- Potenzial für Gesellschaft
+- aber Bedrohund Diskurs durch Tracking
+- Diskriminierung aufgrund Bias
+
+### Forderung
+
+- Überprüfbarkeit von Algorithmen
+- Mithilfe Transparenz
+- Entscheidungsschwach bei Usern über Ausmaß Digitalisierung
+	- Selbstbestimmung
+
+***
+
+## 2b) Konzernmacht in der digitalen Welt 
+
+*Kampagne Konzermacht beschänken*
+
+### Zustand
+
+- soziale Ungleichheit durch Digitalisierung
+	- Verschiebung Arbeit + Kapital
+- entfesselter Wettbewerb
+- Negative Folgen insbesondere. Schwellenländer
+
+#### Daten als Rohstoff
+
+- Daten = Rohstoff neuer Ökonomie
+- Auswertung über Persönlichkeit etc
+- Unzureichende Infos
+
+Vorteile Großunternehmen:
+
+- Datenvorpsrung
+- Netzwerk Effekte
+- Kombination von Diensten
+
+=> Gatekeeper
+
+Problem: 
+
+- Erfassung großer Unternehmen
+- keine Wettbewerbstheorien
+- Kartellrecht: Monopole nicht verboten
+
+Folge: Monopoelisierung
+
+- auf Angebot + Nachfrageseite
+- Demokratiegefahr
+
+#### intransparente Algorithmen
+
+- Geheimhaltung von Algo
+- Potenzial der Manipulation
+	- Bspw. Suchmaschinen
+	- Emotionalität gefördert
+
+### Forderungen
+
+- stärkeres Kartellrecht
+	- für Schutz der Demokratie
+- Einschränkung Akquisitionen 
+
+Kartellrecht Anpassungen:
+
+- Ansatz überdenken, dass Monopole erlaubt sind
+	- nur Konsumentenwohlfahrt relevant
+	- Reduziert auf Preise
+- Missbrauch untersuchen
+	- Mittelaufstockung für Behörde
+- Sektoruntersuchungen
+- Kopplungsverbot
+- Selbtsbevorzugungsverbot
+- Datenschutzaspekt stärken
+	- Bei Untersuchtung Marktstellung
+	- Bei Fusionen
+- Vorsorgeprinzip bei Fusionen
+
+Zusätzlich:
+
+- Datenschutz stärken
+- Algorithmentransparenz
+
+=> soziale Marktwirtschaft im digitalen Zeitalter
+
+Transformation mitdenken!
+
