@@ -84,3 +84,7 @@ Wohlfahrtsanalyse: hier maximale Wohlfahrt (da KR und PR maximal)
 - GG existiert nicht
 - kein vollkommener Markt
 
+
+
+
+
