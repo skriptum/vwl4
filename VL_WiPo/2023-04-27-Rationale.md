@@ -86,5 +86,48 @@ Wohlfahrtsanalyse: hier maximale Wohlfahrt (da KR und PR maximal)
 
 
 
+## Übung 2:
+
+### Cobweb Theorem
+
+- Preisanpassungzyklen
+- nicht lagerbare Güter
+- verzögerte Anpassung des Angebot (*time lag*)
+
+Darstellung
+
+![img](../images/2023-05-03_18-08-20.jpg)
+
+Beispiel: Schweinezyklus
+
+![img](../images/2023-05-03_18-09-38.jpg)
+
+### Marktversagen
+
+aufgrund asymmetrischer Information
+
+- adverse Selektion (ex ante)
+- moral hazard (ex post)
+
+Handlungsoptionen:
+
+- Steuern / Abgaben 
+- Subvention
+
+Beispiel: 
+
+- Pigou Steuer (Lenkungsteuer bspw. Tabak)
+- Coase Theorem
+
+
+
+### natürliches Monopol
+
+Eigenschaften:
+
+- hohe Fixkosten
+- geringe variable Kosten
+- Unteilbarkeit
+
 
 

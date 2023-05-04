@@ -420,3 +420,195 @@ für globale Herausforderungen = globale Lösungen
 
 
 
+## 5a) Klimageld
+
+Zahlung aus CO2-Steuereinnahmen an jeden Bürger
+
+- für Sozialausgleich von Klimapolitik
+- verteilungspolitisch sinnvoll
+
+Studie zu Akzeptanz von Klimageld
+
+- Methodik: repräsentative Befragung zu 7 verschiedenen Methoden
+- höchste Zustimmung: Klimageld (drei Viertel) und Pendlerpauschale
+    - Insbesondere bei Geringverdienern
+
+![img](../images/2023-05-02_18-04-34.jpg)
+
+Soziodemografische Faktoren dabei
+
+![img](../images/2023-05-02_18-05-41.jpg)
+
+## 5b) nachhaltige Soziale Marktwirtschaft
+
+> Wohlstand für alle innerhalb planetarer Grenzen
+
+Zustand:
+
+- Klimawandel verschärft Ungleichheit
+- zwischen Ländern (Norden Süden)
+- aber auch innerhalb Land zw. Einkommensgruppen
+- Einkommensdezil = starker Zusammenhang
+    - Betroffenheit von CC
+    - und Beitrag zu CC
+
+Ungleichheit = Emissionstreiber, da
+
+1. Conspicuous Consumption von Mittelschicht = schädigend
+2. keine Mittelschicht = keine weite Verbreitung von Innovation
+3. politische Einflussnahme Reicher gegen Schutz
+4. Vermögenswerte Reicher Menschen = emissionsintensiv
+
+![img](../images/2023-05-02_18-17-14.jpg)
+
+### ungleiche Beitrag 
+
+Verteilung der GHG-Emissionen
+
+- Global: Nord-Süd Verhältnis
+    - Industrienationen = historische Emissionen akkumuliert
+- Deutschland: Reich-Arm
+    - trotz sinkenden Emissionen (verdeckt)
+    - Emissionen konzentrieren sich an Spitze
+    - stärkere Reduktion bei ärmeren
+
+![img](../images/2023-05-02_18-23-20.jpg)
+
+
+
+
+
+### Betroffenheit und Ungleichheit
+
+niedrigere Einkommen = stärker betroffen
+
+- höhere Exposition
+    - öfter in Regionen mit Starkwetterereignissen (auch DE)
+    - schlechtere Gebäude
+- Niedrigere Bewältigungskapazität
+    - Preissteigerungen
+    - kein Geld für Anpassungen
+
+
+
+### Konsequenzen für Klimapolitik
+
+- kann regressive Verteilungswirkung haben
+    - muss aber nicht!
+    - insbesondere CO2 Preis = regressiv
+    - stärkere Belastung unterer Einkommen bei Energie
+- Muss sozial abgefedert werden
+    - beispielsweise über Klimagled
+- in Kombination mit Investitionen
+    - insbesondere öffentlich
+    - Fördermittel für Wärmewende
+
+
+
+mögliches Instrument: *Klimasoli*
+
+> **Klimasoli:** zweckgebundene Form der progressiven Besteuerung hoher Einkommen und Vermögen gepaart mit einer Nutzungsabgabe auf ausgewählte (besonders) energieintensive Konsumkategorien” (Posch, 2023, p. 8)
+
+- stark bei oberen Einkommensgruppen
+- Reduzierung Luxusemissionen
+- Verteilung der sozialgerechten Transformationlast
+
+
+
+außerdem: Klimakreditkarte
+
+> **Klimakreditkarte:** subventionierter Bezug vordefinierter Menge an lebenswichtigen Gütern
+
+- für einkommenschwache
+- nach Subventionsmenge = Marktpreis
+- wie Gaspreisbremse? (nur ohne Begrenzung auf Gruppen)
+
+
+
+## 5c) Einkommensänderung - Umweltauswirkungen
+
+Treiber von stärkerer Umweltbelastung:
+
+- Einkommen
+- Landnutzung
+- Bildungsabschluss (aber nicht welche Richtung)
+- Wohnortgröße (negativer Zusammenhang)
+    - Menschen in Großstädten weniger als auf Land
+- Alter (negaitver Z.)
+
+
+
+Fazit:
+
+- Einkommen = zentraler Treiber Ressourcenverbrauch
+    - vor allem wegen Mobilität
+    - und mehr Wohnfläche
+- keine Entkopplung
+- höhere Bildung = mehr Mobilität = mehr Verbrauch
+- Alter 
+    - mehr Ressourcen Wohnen
+    - weniger Ressourcen Mobilität
+- Stadt = weniger
+
+
+
+=> Umwelt Kuznets Kurve = nicht empirisch belegt
+
+- Ordnungspolitik statt Informationskampagnen
+- Fokus: Mobilität dekarbonisieren
+    - Anreizsysteme (möglicherweise progressiv)
+- außerdem: Wohnen
+    - Wohnflächen redutzieren / effizienter nutzen
+
+
+
+## 6a) FFF und politischer Wandel
+
+Hypothese: FFF Demonstrationen erhöhen den Stimmenanteil der Grünen
+
+### Problem: 
+
+- Zuordnung der Demonstrierenden zu Wahlkreisen
+- regionale Stärke der Demos
+
+### Methodik: (Big Data Economics)
+
+- Website von FFF / lokale Gruppen
+- Demoanmeldungen Polizei
+- Mobilitätsmatrix Telefondaten
+
+$$
+Wahlergebnisse = \beta Streikpartizipation
+$$
+
+Kontrolle:
+
+- Niederschlag
+- Kontrolle Umweltbewusstsein
+
+### Ergebnisse:
+
+Mehr Streik:
+
+- mehr Stimmen für Grüne
+- Mehr Wahlbeteiligung
+- Aber v.a. Wanderung 
+  - v.a von SPD / Linke
+  -
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
