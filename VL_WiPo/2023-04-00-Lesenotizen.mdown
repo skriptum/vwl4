@@ -4,7 +4,11 @@
 
 ## 2a) Digitale Macht
 
-*Katarina Barley*
+```
+title: "Big Data als Geschäftsmodell: Wie mit der Macht der Internetfirmen umgehen?"
+author: Katarina Barley
+date: 2018
+```
 
 - Verschwimmung online-offline
 - Alle industriellen Revolutionen - wie umgehen?
@@ -27,9 +31,15 @@
 
 
 
-## 2b) Konzernmacht in der digitalen Welt 
+## 2b) Kartellrecht digital
 
-*Kampagne Konzermacht beschänken*
+```
+title: "KOnzernmacht in der Digitalen Welt"
+author: "Kampagne Konzernmacht beschränken"
+date: Dez 2018
+```
+
+
 
 ### Zustand
 
@@ -104,6 +114,14 @@ Transformation mitdenken!
 
 ## 3a) EZB in der Krise
 
+```
+title: "Die Europäische Zentralbank und ihre Rolle in der Krise"
+author: Peter Becker et al
+date: 2020
+```
+
+
+
 ### EZB Aufbau
 
 Aufgaben
@@ -177,6 +195,14 @@ Problem der EZB:
 
 ## 3b) Haushaltspezifische Inflationsraten
 
+```
+title: "IMK Policy Brief: Haushaltsspezifische Teuerungsraten"
+author: Silke Tober
+date: Jan 2022
+```
+
+
+
 Haushalte = markante Unterschiede in individueller Inflation
 
 - je nach Haushaltstyp und Einkommen
@@ -209,6 +235,14 @@ Gründe:
 
 
 ## 3c) Kann EZB Inflation eindämmen?
+
+```
+title: "Kann die EZB die Inflation eindämmen"
+author: "Bundeszentrale für politische Bildung"
+date: Jan 2023
+```
+
+
 
 ### Ja - Peter Bofinger
 
@@ -264,6 +298,14 @@ aber:
 
 ## 4a) Deindustrialisierung
 
+```
+title: Deindustrialisierung, Transformation und eine moderne Industriepolitik
+author: Arno Brandt
+date: 2022
+```
+
+
+
 Stand:
 
 - Anteil verarbeitendes Gewerbe = Rückgang in modernen Volkswirtschaften
@@ -311,6 +353,14 @@ Reaktion der EU
 
 
 ## 4b) Green Economy
+
+```
+title: "Übergang in eine Green Economy: Systemische Hemmnisse und praktische Lösungsansätze"
+author: Elke Örtl, Umweltbundesamt
+date: 2017
+```
+
+
 
 Was braucht es für den Übergang in eine Green Economy?
 
@@ -422,6 +472,14 @@ für globale Herausforderungen = globale Lösungen
 
 ## 5a) Klimageld
 
+```
+title: "Hohe Zustimmung für Klimageld – vor allem bei Personen mit großen Sorgen um die eigene wirtschaftliche Situation"
+author: DIW Aktuell
+date: 2022
+```
+
+
+
 Zahlung aus CO2-Steuereinnahmen an jeden Bürger
 
 - für Sozialausgleich von Klimapolitik
@@ -440,6 +498,14 @@ Soziodemografische Faktoren dabei
 ![img](../images/2023-05-02_18-05-41.jpg)
 
 ## 5b) nachhaltige Soziale Marktwirtschaft
+
+```
+title: "Ökologische Transformation fair gestalten: Die soziale Frage ist keine Nebensache"
+author: Daniel Posch, Bertelsmann Stiftung
+date: 2023
+```
+
+
 
 > Wohlstand für alle innerhalb planetarer Grenzen
 
@@ -527,6 +593,12 @@ außerdem: Klimakreditkarte
 
 ## 5c) Einkommensänderung - Umweltauswirkungen
 
+```
+title: Wirkungen veränderter Einkommen auf den Ressourcenverbrauch
+author: Lea Elsemann, Umweltbundesamt
+date: 2021
+```
+
 Treiber von stärkerer Umweltbelastung:
 
 - Einkommen
@@ -564,6 +636,15 @@ Fazit:
 
 ## 6a) FFF und politischer Wandel
 
+```
+title: "Die grüne Transformation in Wirtschaft und Politik – wo liegen Chancen und Risiken?"
+subtitle: "Trägt die Fridays-for-Future-Bewegung zum politischen Klimawandel bei?"
+author: ifo Schnelldienst
+date: 2022
+```
+
+
+
 Hypothese: FFF Demonstrationen erhöhen den Stimmenanteil der Grünen
 
 ### Problem: 
@@ -578,7 +659,7 @@ Hypothese: FFF Demonstrationen erhöhen den Stimmenanteil der Grünen
 - Mobilitätsmatrix Telefondaten
 
 $$
-Wahlergebnisse = \beta Streikpartizipation
+Wahlergebnisse = \beta * Streikpartizipation
 $$
 
 Kontrolle:
@@ -594,21 +675,70 @@ Mehr Streik:
 - Mehr Wahlbeteiligung
 - Aber v.a. Wanderung 
   - v.a von SPD / Linke
-  -
 
 
 
+## 6b) grüne Regierungen
+
+```
+title: "Die grüne Transformation in Wirtschaft und Politik – wo liegen Chancen und Risiken?"
+subtitle: "Grüne Regierungen: Liefern sie das, was sie versprechen?"
+author: ifo Schnelldienst
+date: 2022
+```
 
 
 
+Regierungswechsel in BW = quasi-exogen (Fukushima)
+
+Methode:
+
+- Vergleich reales BW mit syntethischem Kontroll-BW
+- synthetisches BW = for Landtagswahl fortgeführtes
+
+Kontrolle mit anderen Bundesländern
+
+ergebnisse:
+
+- keine Reaktion CO2 und Energieträger
+- weniger Windkraft
+- inklusivere Schulbildung
+
+aber: keine kausalen Effekte!
+
+> “Manche strukturellen Reformen lassen sich am ehesten von politischen Parteien durchsetzen, von denen man es nicht erwartet” 
+
+Only Nixon could go to China
+
+## 6c) Kohle Lobbyismus
+
+```
+title: "Lobbyismus: Bezahlt, um zu verhindern"
+author: Cindy Baxter, Böll Stiftung
+date: 2015
+```
 
 
 
+Kohle Lobby = wichtiger Bestandteil der Klimapolitik
 
+Methoden:
 
+- Erneuerbare diskreditieren
+- Grenzwerte verhindern
+- staatliche Energiekonzerne entsenden Vertreter
 
+![img](../images/2023-05-04_11-18-40.jpg)
 
+USA:
 
+- Spendengelder (an Republikaner)
+- Gesetze selber schreiben (ALEC)
+
+Australien
+
+- Positionen besetzen
+- Stimmung in Medien gegen Klimawandel 
 
 
 
