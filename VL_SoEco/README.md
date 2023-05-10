@@ -1,7 +1,7 @@
 # Ökonomik sozial-ökologischer Systeme
 
-- Mail: [bartos.bartkowski@ufz.de](bartos.bartkowski@ufz.de)
-- [Website](bartoszbartk.com)
+- Mail: [bartos.bartkowski@ufz.de](mailto:bartos.bartkowski@ufz.de)
+- [Website](https://www.bartoszbartk.com)
 
 
 

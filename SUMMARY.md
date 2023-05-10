@@ -1,5 +1,6 @@
 - [Startseite](README.md)
 - Angewandte Ökonomik
+    - [-Normativ](VL_Angewandte/20203-05-10-Normativ.md)
     - [Makro](VL_Angewandte/2023-04-19-Makro.md)
     - [Mikro](VL_Angewandte/2023-04-26-Mikro.md)
     - [Wert](VL_Angewandte/2023-05-03-Wert.md)
@@ -29,6 +30,7 @@
     - [Übersicht](VL_SoEco/README.md)
 
 - Wirtschaftspolitik
+    - [Lesenotizen](VL_WiPo/2023-04-00-Lesenotizen.md)
     - [Start](VL_WiPo/2023-04-20-Start.md)
     - [Rationale](VL_WiPo/2023-04-27-Rationale.md)
     - [Marktversagen](VL_WiPo/2023-05-04-Marktversagen.md)
