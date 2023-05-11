@@ -48,6 +48,76 @@ Achtung: Verteilungswirkung der Ausgangsverteilung
 
 
 
+## Wettbewerbspolitik
+
+nach Schumpetter = kreative Zerstörung
+
+- Produkt / Verfahrensinnovation => ständige Veränderung des Marktes
+- Monopolgewinne = Anreiz für Innovatoren
+- Imitation = abbau und Diffusion von Monopolgewinne
+
+=> Wettbewerbspolitik = gegen **dauerhafte** Monopole
+
+
+
+nach Hayek: Such- und Entdeckungsverfahren
+
+- Preisbildung = Verbreitung von Wissen
+- zur Überwindung von Knappheiten
+
+=> Wettbewerbspolitik = Preisbildung funktionsfähig halten
+
+
+
+## Wettbewerbsbild
+
+Leitbild = **Funktionsfähiger Wettbewerb**
+
+- Allokationsfunktion
+- realer Wettbewerb = komplizierter
+
+Kriterien
+
+- **Marktmacht**
+- **Marktverhalten**
+- **Markterbegnis**
+
+![img](../images/2023-05-11_10-53-55.jpg)
+
+## Instrumente
+
+der Wettbewerbspolitik
+
+- Spielregeln aufstellen
+- Kartellpolitik
+- Fusionskontrolle
+- Missbrauchsaufsicht
+- Patentgesetze et.c (willkürliche Wettbewerbsbeschränkungen)
+
+
+
+## Beispiele: Telekomsektor
+
+Problem
+
+- Netzexternalitäten
+- Unteilbarkeit / Sunk costs
+- Asymmetrische Information
+
+vor 1990:
+
+- Bundespost = Monopol
+- wenig entwickelte Märkte
+
+Deregulierung
+
+- Aufteilung in verschiedene Unternehmen
+- diskrimierungsfreier Zugang (Nummernportabilität)
+- Universaldienst -Regulierung (Große UNternhemen müssen für alle anbieten)
+- Netzzugang für Wettbewerber
+
+
+
 ## Übung 2:
 
 ### Cobweb Theorem

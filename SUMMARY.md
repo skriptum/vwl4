@@ -10,6 +10,7 @@
     - [Start](VL_International/2023-04-20-Start.md)
     - [Labour](VL_International/2023-04-27-Labour.md)
     - [RicardoModel](VL_International/2023-05-04-RicardoModel.md)
+    - [Specific-Factor](VL_International/2023-05-11-Specific-Factor.md)
     - [Übersicht](VL_International/README.md)
 
 - Makroökonomik II
@@ -34,5 +35,6 @@
     - [Start](VL_WiPo/2023-04-20-Start.md)
     - [Rationale](VL_WiPo/2023-04-27-Rationale.md)
     - [Marktversagen](VL_WiPo/2023-05-04-Marktversagen.md)
+    - [Makrooekonomik](VL_WiPo/2023-05-11-Makrooekonomik.md)
     - [Übersicht](VL_WiPo/README.md)
 
