@@ -1,9 +1,10 @@
 - [Startseite](README.md)
 - Angewandte Ökonomik
-    - [-Normativ](VL_Angewandte/20203-05-10-Normativ.md)
     - [Makro](VL_Angewandte/2023-04-19-Makro.md)
     - [Mikro](VL_Angewandte/2023-04-26-Mikro.md)
     - [Wert](VL_Angewandte/2023-05-03-Wert.md)
+    - [Normativ](VL_Angewandte/2023-05-10-Normativ.md)
+    - [Geldpolitik](VL_Angewandte/2023-05-17-Geldpolitik.md)
     - [Übersicht](VL_Angewandte/README.md)
 
 - International Economics
@@ -28,6 +29,9 @@
 - Sozial-Ökologische Systeme
     - [Einfuehrung](VL_SoEco/2023-04-17-Einfuehrung.md)
     - [System](VL_SoEco/2023-04-24-System.md)
+    - [Lever](VL_SoEco/2023-05-15-Lever.md)
+    - [Food-System](VL_SoEco/2023-05-22-Food-System.md)
+    - [Resource](VL_SoEco/2023-05-27-Resource.md)
     - [Übersicht](VL_SoEco/README.md)
 
 - Wirtschaftspolitik
