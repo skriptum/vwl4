@@ -8,8 +8,11 @@ $$
 Y = \underbrace{\bar{Y}}_{trend} \cdot \underbrace{Y^c}_{cyclical}
 $$
 
-sorted with: Hodrick-Prescott-Filter
+let $y_t = \ln Y_t$,  $\bar{y}_t = \ln \bar{Y}_t$,  $c_t = Y_t^c$
 
+
+
+sorted with: Hodrick-Prescott-Filter
 $$
 HP = \underbrace{\sum_{t=1}^T (y_t-\bar{y_t}^2)}_{\text{change in trend}}
 + \lambda \cdot \underbrace{\sum_{t=2}^{T-1}
@@ -20,10 +23,17 @@ $\lambda$ = weight of cyclical vs. trend
 
 ![img](../images/2023-05-26_16-08-41.jpg)
 
+note: Trend is not always Regression, but fluctuates too! (not single straigt line!)
+
 ## Stylized Facts
 
 ### Volatility
 
+empirical standard deviation 
+
+$$
+s_x = \sqrt{ \frac{ 1 }{T-1} \sum_t^T (x_t - \bar{x})^2}
+$$
 Stylized Facts of the BC
 
 1. Real GDP moves up and down over business cycle
