@@ -10,6 +10,7 @@ Pro:
 - imperfect competition = excess prozit
     - activist trade policy = shift profits home
     - example: Boeing Arbus
+    - 
 
 Cons:
 
