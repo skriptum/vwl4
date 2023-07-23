@@ -249,13 +249,23 @@ different isovalue lines and PPF
 
 ## Theorems
 
-Stolper Samuekson
+all in the Heckscher Ohlin Model
 
-Ribcacuafuhawc
+> **Heckscher-Ohlin Theorem**: countries specialize in goods that use its abundant factor intensively
 
-Heckscher Ohlin
+e.g Bangladesh labor-abundant = clothes production
+
+> **Stolper-Samuelson Theorem:**  Rise in relative price of good => higher return to factor used intensively & lower returns for factors of other good
+
+e.g higher price for clothes => higher wages for clothes workers & lower returns for land owners in food production
+
+> **Rybczynski-Theorem:** if prices constant and amount of one factor rises => Quantity of good using factor intensively increases & other goods quantity decreases
+
+e.g population rise in Bangladesh => more clothes produced & even less food production
 
 
+
+## Instruments
 
 
 
