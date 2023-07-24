@@ -31,6 +31,9 @@
       * [Import Quota](#import-quota)
       * [Voluntary Export Restriction](#voluntary-export-restriction)
       * [Local Content Requirement](#local-content-requirement)
+  * [Political Economy of Trade](#political-economy-of-trade)
+      * [Case for Protection](#case-for-protection)
+      * [Case against Protection](#case-against-protection)
 
 
 
@@ -377,6 +380,48 @@ producers profit, government gains revenue, consumers have to pay higher prices
 
 ## Political Economy of Trade
 
+International Trade & Globalisation = highly debated topic
+
 ### Case for Protection
 
+Presence of imperfect markets
+
+- No prefect competition
+- market distortions
+
+Examples:
+
+- tariff on foreign monopoly firm = shift profit to domestic
+- subsidy on domestic firm  = compete against oligopolies 
+    - **Brender Spencer Analysis**
+    - capture world market = higher profit than subsidy costs
+    - Example: Airbus - Boeing
+- pollution = negative externality
+    - tariff = shift to less polluting domestic industry
+    - less world pollution overall
+
+
+
 ### Case against Protection
+
+Retaliation
+
+- possibility of retaliation of other countries
+- less welfare overall
+
+Superior Policies to raise efficiency
+
+- if goal is to stop unemployment
+- use fiscal policy e.g than trade policy
+- Trade policy = *Second Best Option*
+
+Information Deficiencies
+
+- perfect tariff rate = difficult to set
+- unintended consequences in other industries
+
+Lobbying / Rent Seeking
+
+- concentrated interest groups = more power than less concentrated consumers
+- captured by special interests
+
